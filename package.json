@@ -1,0 +1,14 @@
+{
+  "name": "project-node",
+  "version": "1.0.0",
+  "description": "Project Node.js to learn more about Node.js and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Yan France",
+  "license": "MIT"
+}
