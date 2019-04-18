@@ -1,1 +1,3 @@
-console.log("Hello Word");
+const names = ["Alpha", "Betty", "Echo"];
+
+console.table(names);
